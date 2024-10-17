@@ -32,7 +32,7 @@ body:
     attributes:
       label: Who can help?
       description: |
-        Your issue will be replied to more quickly if you can figure out the right person to tag with @
+        Your issue will be replied to more quickly if you can figure out the **right person to tag with @**, or **attach labels**
         If you know how to use git blame, that is the easiest way, otherwise, here is a rough guide of **who to tag**.
 
         All issues are read by one of the core maintainers, so if you don't know who to tag, just leave this blank and
